@@ -7,8 +7,9 @@
 ## 大会開催情報
 
 * 大会ウェブページ / Official page: https://www.robocup.or.jp/JapanOpen2025/
-* 競技期間 / Dates: TBD
-* 会場 / Location: TBD
+* ＠ホームリーグウェブページ / @Home league page: https://sites.google.com/site/robocuphomejapan/japanopen2025
+* 競技期間 / Dates: 2025-05-02 - 2025-05-05
+* 会場 / Location: 滋賀ダイハツアリーナ / Shiga Daihatsu Arena, Japan
 
 ## Discord
 
