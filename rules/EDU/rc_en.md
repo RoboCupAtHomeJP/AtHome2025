@@ -2,11 +2,9 @@
 
 # Receptionist(RC) rule
 
-Eventhough most of the rules are based on the RoboCup World competition Rulebook, It will be discussed about some local rules for the RCJ2024 in the TLM.
-
-[Education rules 2023](https://docs.google.com/document/d/1cHRMwnPajsPiEZNw1celFjHG1CSGTA2uyJ2VcAoEuoc/edit?usp=sharing)
-
-[@Home 2022 Rules](https://athome.robocup.org/wp-content/uploads/2022_rulebook.pdf)
+Eventhough most of the rules are based on the RoboCup World competition Rulebook, It will be discussed about some local rules for the RCJ2025 in the TLM.
+- [Playground Rules 2024](https://drive.google.com/file/d/1CIMQquIntiJZNT4Eg_rq3Nol-29BPBKL/view?usp=drive_link)
+- [@Home 2022 Rules](https://drive.google.com/file/d/1yUZBFk4zBO_akltSCd_zbdAvzK5aLwzn/view?usp=drive_link).
 
 ## Main Goal
 The robot has to take two new guests to the living room to introduce them and offer a free place to sit.
