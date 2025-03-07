@@ -1,7 +1,7 @@
 # Technical Challenge (Finals)
 
-[Education rules 2023](https://docs.google.com/document/d/1cHRMwnPajsPiEZNw1celFjHG1CSGTA2uyJ2VcAoEuoc/edit?usp=sharing)
-第7章決勝（85～86ページ）の記述を参照。
+ [@Home 2022 Rules](https://drive.google.com/file/d/1yUZBFk4zBO_akltSCd_zbdAvzK5aLwzn/view?usp=drive_link) [Education rules 2023]
+Chapter7 Finals（85～86ページ）の記述を参照。ローカルルールはTLMによって決定する。
 
 - 全チームがファイナルに参加する．
 - タスク
