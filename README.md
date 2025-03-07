@@ -1,8 +1,7 @@
 # RoboCup JapanOpen 2025 @Home League
 
 > [!IMPORTANT]
-> 現在アップロードされているルールは2024年最終版です．ルールの更新時期や進め方は各サブリーグにより異なります．
-> The currently uploaded rules are as of 2024. The update schedule will be different at each subleagus.
+> 実施タスク名を公開しました． / Task names are published.
 
 ## 大会開催情報
 
@@ -10,6 +9,44 @@
 * ＠ホームリーグウェブページ / @Home league page: https://sites.google.com/site/robocuphomejapan/japanopen2025
 * 競技期間 / Dates: 2025-05-02 - 2025-05-05
 * 会場 / Location: 滋賀ダイハツアリーナ / Shiga Daihatsu Arena, Japan
+
+## Tasks
+
+### OPL
+
+Rules are based on RoboCup 2024.
+
+* Carry My Luggage
+* Receptionist
+* GPSR
+* Open Challenge
+* Kachaka Challenge (Extended Tidy Up)
+* Poster
+
+### DSPL
+
+Rules are based on RoboCup 2025.
+
+* Storing Groceries (For beginner team)
+* Restaurant (For beginner team)
+* GPSR (For beginner team) / EGPSR
+* Receptionist
+* Clean the Table
+* Help Me Carry
+
+### Bridge
+
+* Carry My Luggage
+* Receptionist
+* Open Challenge
+* Poster
+
+### S-OPL
+
+* Handyman
+* Interactive Cleanup
+* Human Navigation
+* Tech. Sharing
 
 ## Discord
 
