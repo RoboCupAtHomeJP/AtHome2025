@@ -1,8 +1,7 @@
 # RoboCup JapanOpen 2025 @Home League
 
 > [!IMPORTANT]
-> 現在アップロードされているルールは2024年最終版です．ルールの更新時期や進め方は各サブリーグにより異なります．
-> The currently uploaded rules are as of 2024. The update schedule will be different at each subleagus.
+> 実施タスクを公開しました． / Task names are published.
 
 ## 大会開催情報
 
@@ -19,16 +18,46 @@ Discord is the official communication platform for @Home League. There, informat
 
 [Discord参加リンク/ Join our Discord server](https://discord.gg/8gJYJqUVZA)
 
+## Tasks
 
-## Bridge Competition (BRIDGE)
+### OPL
 
-### Overall Rules
+Rules are based on RoboCup 2024.
+
+* Carry My Luggage
+* Receptionist
+* GPSR
+* Open Challenge
+* Kachaka Challenge (Extended Tidy Up)
+* Poster
+
+### DSPL
+
+Rules are based on RoboCup 2025.
+
+* Storing Groceries (For beginner team)
+* Restaurant (For beginner team)
+* GPSR (For beginner team) / EGPSR
+* Receptionist
+* Clean the Table
+* Help Me Carry
+
+### Bridge Competition (BRIDGE)
+
+#### Overall Rules
 Rules are based on RoboCup2024 World Championship @Home Playground rules as follows,　
 - [Playground Rules 2024](https://drive.google.com/file/d/1CIMQquIntiJZNT4Eg_rq3Nol-29BPBKL/view?usp=drive_link)
 - [@Home 2022 Rules](https://drive.google.com/file/d/1yUZBFk4zBO_akltSCd_zbdAvzK5aLwzn/view?usp=drive_link).
 
-### Tasks
+#### Tasks
 - [Poster Session](rules/EDU/poster_ja.md) 
 - [Carry My Luggage](rules/EDU/cml_ja.md)
 - [Receptionist](rules/EDU/rc_jp.md)
 - [Technical Challenge (Finals)](rules/EDU/finals_jp.md)
+
+### S-OPL
+
+* Handyman
+* Interactive Cleanup
+* Human Navigation
+* Tech. Sharing
