@@ -3,10 +3,8 @@
 # Receptionist(RC)　ルール
 
 世界大会の以下のルールをもとにTLMでルールの詳細を最終決定します．
-
-[Education rules 2023](https://docs.google.com/document/d/1cHRMwnPajsPiEZNw1celFjHG1CSGTA2uyJ2VcAoEuoc/edit?usp=sharing)
-
-[@Home 2022 Rules](https://athome.robocup.org/wp-content/uploads/2022_rulebook.pdf)
+- [Playground Rules 2024](https://drive.google.com/file/d/1CIMQquIntiJZNT4Eg_rq3Nol-29BPBKL/view?usp=drive_link)
+- [@Home 2022 Rules](https://drive.google.com/file/d/1yUZBFk4zBO_akltSCd_zbdAvzK5aLwzn/view?usp=drive_link).
 
 ## メインゴール
 このタスクでは，ロボットが2人のゲストをリビングまで案内し，紹介した後，ゲストを空いている席に座らせます
