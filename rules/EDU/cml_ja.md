@@ -1,7 +1,9 @@
 [日本語](./cml_ja.md) | [English](./cml_en.md)
 
 # Carry My Luggage（CML）作成中
-基本的に昨年のジャパンオープン@Home Educationと同じルールですが、細部はチームリーダーミーティングによって決定します。
+世界大会の以下のルールをもとにTLMでルールの詳細を最終決定します．
+- [Playground Rules 2024](https://drive.google.com/file/d/1CIMQquIntiJZNT4Eg_rq3Nol-29BPBKL/view?usp=drive_link)
+- [@Home 2022 Rules](https://drive.google.com/file/d/1yUZBFk4zBO_akltSCd_zbdAvzK5aLwzn/view?usp=drive_link).
 
 参考動画：https://youtu.be/dzyJ1dHTulc
 
