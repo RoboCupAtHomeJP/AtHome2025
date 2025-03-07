@@ -1,6 +1,7 @@
 [日本語](./cml_ja.md) | [English](./cml_en.md)
 
 # Carry My Luggage (CML)
+Eventhough most of the rules are based on the RoboCup World competition Rulebook, It will be discussed about some local rules for the RCJ2025 in the TLM.
 - [Playground Rules 2024](https://drive.google.com/file/d/1CIMQquIntiJZNT4Eg_rq3Nol-29BPBKL/view?usp=drive_link)
 - [@Home 2022 Rules](https://drive.google.com/file/d/1yUZBFk4zBO_akltSCd_zbdAvzK5aLwzn/view?usp=drive_link).
 
