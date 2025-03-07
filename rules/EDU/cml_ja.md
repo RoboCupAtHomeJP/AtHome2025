@@ -1,6 +1,7 @@
 [日本語](./cml_ja.md) | [English](./cml_en.md)
 
-# Carry My Luggage（CML）
+# Carry My Luggage（CML）作成中
+基本的に昨年のジャパンオープン@Home Educationと同じルールですが、細部はチームリーダーミーティングによって決定します。
 
 参考動画：https://youtu.be/dzyJ1dHTulc
 
