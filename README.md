@@ -18,3 +18,17 @@
 Discord is the official communication platform for @Home League. There, information towards the participants or communication among teams will be conducted. Any future participant teams and/or members who are planning to join us in this competition are welcome to join the Discord server.
 
 [Discord参加リンク/ Join our Discord server](https://discord.gg/8gJYJqUVZA)
+
+
+## Bridge Competition (BRIDGE)
+
+### Overall Rules
+Rules are based on RoboCup2024 World Championship @Home Playground rules as follows,　
+- [Playground Rules 2024](https://docs.google.com/document/d/1cHRMwnPajsPiEZNw1celFjHG1CSGTA2uyJ2VcAoEuoc/edit?usp=sharing)
+- [@Home 2022 Rules](https://athome.robocup.org/wp-content/uploads/2022_rulebook.pdf).
+
+### Tasks
+- [Poster Session](rules/EDU/poster_ja.md) 
+- [Carry My Luggage](rules/EDU/cml_ja.md)
+- [Receptionist](rules/EDU/rc_jp.md)
+- [Technical Challenge (Finals)](rules/EDU/finals_jp.md)
