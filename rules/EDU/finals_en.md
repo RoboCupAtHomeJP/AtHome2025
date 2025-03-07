@@ -1,6 +1,6 @@
 # Technical Challenge (Finals)
 
-The description in Chapter 7 Finals (pg. 85-86) of  [@Home 2022 Rules](https://drive.google.com/file/d/1yUZBFk4zBO_akltSCd_zbdAvzK5aLwzn/view?usp=drive_link) is referred to.
+The description in Chapter 7 Finals (pg. 85-86) of  [@Home 2022 Rules](https://drive.google.com/file/d/1yUZBFk4zBO_akltSCd_zbdAvzK5aLwzn/view?usp=drive_link) is referred to., and it will be discussed about some local rules for the RCJ2025 in the TLM.
 
 All teams compete in Finals.
 
