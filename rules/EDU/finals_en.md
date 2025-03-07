@@ -1,7 +1,6 @@
 # Technical Challenge (Finals)
 
-The description in Chapter 7 Finals (pg. 85-86) of [Education rules 2023](https://docs.google.com/document/d/1cHRMwnPajsPiEZNw1celFjHG1CSGTA2uyJ2VcAoEuoc/edit?usp=sharing)
-is referred to.
+The description in Chapter 7 Finals (pg. 85-86) of  [@Home 2022 Rules](https://drive.google.com/file/d/1yUZBFk4zBO_akltSCd_zbdAvzK5aLwzn/view?usp=drive_link) is referred to.
 
 All teams compete in Finals.
 
