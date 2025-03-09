@@ -25,7 +25,7 @@ Discord is the official communication platform for @Home League. There, informat
 Rules are based on RoboCup 2024.
 
 * Carry My Luggage
-* Receptionist
+* ~~Receptionist~~
 * GPSR
 * Open Challenge
 * Kachaka Challenge (Extended Tidy Up)
