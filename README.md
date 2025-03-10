@@ -35,9 +35,19 @@ Rules are based on RoboCup 2024.
 
 Rules are based on RoboCup 2025.
 
-* Storing Groceries (For beginner team)
-* Restaurant (For beginner team)
-* GPSR (For beginner team) / EGPSR
+#### Beginner's Category
+
+ルールや採点方法に変更が加えられる予定です． / Rules and scoring criteria will be modified.
+
+* Storing Groceries
+* Restaurant
+* GPSR
+
+#### Regular Category
+
+* Storing Groceries
+* Restaurant
+* EGPSR
 * Receptionist
 * Clean the Table
 * Help Me Carry
