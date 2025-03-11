@@ -70,4 +70,6 @@ Rules are based on RoboCup2024 World Championship @Home Playground rules as foll
 * Handyman
 * Interactive Cleanup
 * Human Navigation
-* Tech. Sharing
+* Open Challenge
+
+![](./RCJ25_0311.jpg)
