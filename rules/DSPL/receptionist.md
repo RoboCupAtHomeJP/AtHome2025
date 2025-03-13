@@ -1,103 +1,127 @@
+# Receptionist
+
 **現在ルール策定中ですので，今後変更となる可能性があります．**
 
-# Receptionist
-このタスクでは，ロボットはレストランのウエイターとして働く．ロボットは未知環境内で，クライアントからオーダーを取り，配膳する．
-
-## メインゴール
-クライアントからオーダーを取り，配膳する．
-
-## フォーカス
-このタスクでは，タスクプランニング，オンラインマッピング，未知環境でのナビゲーション，ジェスチャー検出，言葉による対話，マニピュレーションに焦点を当てる．
-
-## セットアップ
-- ロケーション: 現実のレストラン環境か，それに近い未知環境が用意される．本タスクではアリーナはそのまま使われない．
-- スタートロケーション: ロボットはキッチンバーの側からスタートする．
-- クライアント: プロフェッショナルクライアント（チームメンバーでない人間）が着席するテーブルが少なくとも3つ用意され，少なくとも2つのオーダーが実施される（例えば3つのオブジェクトを含むオーダーが1回と，2つのオブジェクトを含むオーダーが1回）．
-- キッチンバー: レストランのキッチン（または，そのように定義される場所）の近くにテーブルが用意され，バーカウンターとして使用される．
-- バーマン: プロフェッショナルバーマン（チームメンバーでない人間）が，キッチンバーの反対側でロボットを待つ．彼の役割はロボットに指示を出したり，ロボットが取ったオーダーに従ってオブジェクトを用意することである．
-- オブジェクト: オーダーされたオブジェクトを含む複数のオブジェクトがキッチンバーに並べられる．
-
-## シナリオ
-- 競技時間：競技時間は最大15分である．
-- 対話の使用言語は英語である．
-
-### a. スタートフェーズ
-1. 配置: レフェリーは，チームにロボットをスタートロケーションへ移動させるよう指示する．
-1. スタート: レフェリーはスタートの合図を出し，タイマーをスタートさせる．同時にチームは最後の簡単なセットアップ（スタートボタンを押す等）を完了し，エリアを離れる．この際，ボタンを2つ以上押すなど複雑なセットアップ手順の実施は認められない．また，これ以後チームがロボットに触れると即座に失格になる．
-
-### b. オーダーフェーズ
-オーダーフェーズ，デリバリーフェーズは2回繰り返される．すなわちロボットは2回，オーダーを取り配膳することができる．
-1. クライアントが手を降り，ウエイターを呼ぶ．ロボットは自身が呼ばれていることに気付かなくてはならない．
-1. ロボットは呼ばれていることに気が付くと，バーマンにその旨を伝え，自身がオーダーを取りに行って良いか確認しなくてはならない．許可された場合は3へ，許可されなかった場合は1へ戻る．
-1. ロボットは自身を呼ぶクライアントの元へ移動する．
-1. ロボットはクライアントからオーダーを取る．オーダーされるオブジェクトの最大数は3である．この時，ロボットは自身が覚えた注文内容を発話して「正しくオーダーが取れたこと」を示さなければならない．
-1. ロボットはキッチンバーに移動し，バーマンにオーダーを伝える．
-
-### c. デリバリーフェーズ
-1. ロボットはキッチンバーに置かれている複数のオブジェクトから，オーダーされたオブジェクトを把持する．ロボットはカスタムコンテナを使用することが許可される．
-1. ロボットはクライアントの元へ移動する．
-1. ロボットはオブジェクトをクライアントへ配膳する．この時，ロボットがクライアントのテーブルへオブジェクトを置かなければペナルティとなる．
-1. ロボットはバーマンの元へ戻る．1回目の場合「b. オーダーフェーズ」へ戻る．2回目の場合，ここでタスクは終了する．
-
-## カスタムコンテナ
-ロボットはオブジェクトを配膳するために，チームが用意したカスタムコンテナを使用できる．
-
-<table>
-<tr>
-  <td>
-    <img src="restaurant_custom_container_1.jpg"/>
-  </td>
-  <td>
-    <img src="restaurant_custom_container_2.jpg"/>
-  </td>
-  <td>
-    <img src="restaurant_custom_container_3.jpg"/>
-  </td>
-</tr>
-<tr>
-  <td colspan="3">
-  <center>
-   カスタムコンテナの一例（左，中：カスタムコンテナ本体，右：HSRがカスタムコンテナを持つ様子）
-  </center>
-  </td>
-</tr>
-</table>
+The original is from  RoboCupAtHome github. https://github.com/RoboCupAtHome/RuleBook/blob/master/tasks/Receptionist.tex
 
 
-## デウスエクスマキナ
-本タスクでは，次のデウスエクスマキナが採用される．デウスエクスマキナでは該当アクションの点数は入らないが，より簡単な手法でアクションをスキップし，タスクを継続することができる．
+## Description
+The robot has to take two new guests to the living room to introduce them and offer a free place to sit.  
 
-| Action | Bypassing |
-| --- | --- |
-| 手を振るクライアントを検出する | ✓ クライアントにARマーカーを持たせる <br> ✓ バーマンがクライアントを指さす |
-| オーダーを取るためにクライアントのテーブルまで移動する | ✓ バーマンがテーブルまで歩いていく（ロボットはバーマンに追従する） <br> ✓ バーマンがロボットの手を引く |
-| 正しくオーダーを取る | ✓ QRコードにより注文を伝える |
-| オーダーを伝えるためにバーマンの元へ戻る | （オーダーを取るためにクライアントのテーブルまで移動する）と同じ |
-| オーダーされたオブジェクトを把持する・獲得する | ✓ バーマンがカスタムコンテナに物体を乗せる |
-| オブジェクトをデリバリーするためにクライアントのテーブルへ到達する | （オーダーを取るためにクライアントのテーブルまで移動する）と同じ |
+**Main goal:**  
+The robot welcomes and assists two newcomers at a party, offering them a seat and maintaining appropriate gaze direction during conversation (at person speaking, direction of navigation).
 
-## スコアシート
-| Action | Score |
-| --- | --- |
-| 手を振るクライアントを検出する | 100×2 |
-| オーダーを取るためにクライアントのテーブルまで移動する | 100×2 (*1) |
-| 正しくオーダーを取る | 100×2 (*2) |
-| オーダーを伝えるためにバーマンの元へ戻る | 100×2 (*3) |
-| バーマンに正しくオーダーを伝える | 100×2 |
-| オーダーされたオブジェクトを把持する・獲得する | 100×2 (*4) |
-| オブジェクトをデリバリーするためにクライアントのテーブルへ到達する | 100×2 (*4) |
-| クライアントへオブジェクトを配達する | 100×2 (*2, 4) |
-| *ペナルティ* | 　 |
-| オーダーを取る際にクライアントの方向を向いていない | (*5) |
-| オブジェクト配達時，ロボットがオブジェクトをテーブルに置いていない | -50×2 |
+**Optional goals:**
+1. Open the entrance door for each arriving guest.
+2. Visually describe the first guest for the second guest before reaching the living room.
+3. Identify similarities between the guests and the host and incorporate them into the conversation.
 
-### 採点時の注意
-- *1: 目的地に到達完了したときにスコアが与えられる．到達完了は椅子に座ったクライアントが手を伸ばしてロボットに届く距離に到達した場合と定義する．
-- *2: ロボットがクライアントとインタラクションをするときに椅子から離れるように指示することができる．クライアントが指示を理解し椅子から離れてインタラクションが成立したとき，当該スコアに0.5を乗ずる．
-- *3: 目的地に到達完了したときにスコアが与えられる．到達完了はバーマンがデフォルト位置から立った状態で手を伸ばしてロボットに届く距離に到達した場合と定義する．
-- *4: オーダーされたオブジェクトIDリストと実際に操作したオブジェクトIDリストのハミング（レーベンシュタイン）距離をDとしたとき，当該スコアに(0.5^D)を乗ずる．
-  - 実際に操作したオブジェクトが0個のときはスコアは0とする
-  - 例えばオーダーがA and Bで，Aのオブジェクトを1つ操作したとき，"AB"と"A0"のハミング距離を計算しD=1とする
-  - 例えばオーダーがA and Bで，Aのオブジェクトを2つ操作したとき，"AB"と"AA"のハミング距離を計算しD=1とする
-  - 例えばオーダーがA and Bで，Aのオブジェクトを2つ，Bのオブジェクト2つを操作したとき，"AB00"と"ABAB"のハミング距離を計算しD=2とする
-- *5: 正しくオーダーを取るのスコアに0.5を乗ずる．オーダーを取るタイミングはクライアントとの会話（椅子から離れるように指示することも含む）が始まった瞬間と定義する．
+## Focus
+System Integration, Human-Robot Interaction, Person Detection, Person Recognition
+
+## Setup
+- **Location:**  
+  - The test takes place in the living room.  
+  - The robot starts inside the Arena at a predefined location.  
+  - A table with drinks is prepared near the living room.  
+  - **Entrance:** The entrance door is open by default. The team leader can request to close the door to score additional points by opening it for the guests.
+
+- **People:**
+  - **Host:**  
+    The host's name, favorite drink, and interest will be announced before the test. The host is the only person sitting in the living room until the robot offers a free seat to another guest.
+  - **Arriving Guests:**  
+    Both guests have a name, favorite drink, and an interest. An arriving guest will either step in front of the robot or wait behind the door to step in if the door is closed. Guests have to be guided to the beverage area and then the living room where the robot will introduce the guests to each other. Each guest arrives separately.
+  - **Passive Guests:**  
+    Other guests, including possibly spectators, are standing in small groups of two or three all over the arena but not covering relevant places, e.g., the couch, seats, or the area with the drinks.
+
+## Procedure
+Both guests arrive separately. The robot either opens the door for the guest or waits for them at the starting point. It greets the guest and asks for their name. The robot then guides the guest to the beverage area, where it asks for their favorite drink and checks if the drink is available on the table and where it stands. The robot finds out the interest of the guest at a freely chosen moment. After showing the guest the beverage area, the robot escorts them to the living room and offers a free seat. Once both guests are seated, the robot introduces them to each other.
+
+- **Greeting guests:**  
+  The person paces a little to the left and right during conversation with the robot. Other people might appear in the background.
+
+- **Looking at person:**  
+  During verbal interactions and descriptions of people, the robot looks at the conversational partner. The conversational partner will make small movements to each side to confirm the robot is dynamically looking at the person. Points for looking at the person talking will only be awarded if the robot proves to continuously look at the moving person.
+
+- **Looking at direction of navigation:**  
+  During navigation, the robot looks in the direction where it is going. Persistently gazing towards an unrelated person or an incorrect direction while moving during the task deducts points.
+
+- **Smalltalk:**  
+  Ask each guest for one interest.
+
+- **Finding the drink:**  
+  The robot shows both guests the drinking area where it will ask for their favorite drink and tell the guest if and where (left, center, right is enough) that drink is available on the table.
+
+- **Seating People:**  
+  The robot must point at a place or location where the guest can sit.
+
+- **Switching Places:**  
+  Guests may switch places after they are seated.
+
+- **Introductions:**  
+  When introducing guests, the robot must clearly identify the person being introduced and state their name, favorite drink, and an interest. Introducing two people means to introduce them to each other.
+
+## Additional rules and remarks
+1. **Opening Door Timing:** The time of the test only starts after the first person enters the arena or 2 minutes after the start signal.
+2. **Misunderstanding:** Not understanding the guests and asking them again is fine. Continuing with a wrong name, drink, or interest causes a score reduction of 20 points per item.
+3. **Partial Scoring:** The main task allows partial (per guest) scoring.
+4. **Additional Seating:** Referees may add chairs to the party area living room.
+5. **Deus ex Machina:** Score reduction applies per guest as follows:
+   - **Custom Operator:** Since the main focus of the test is HRI, no custom operator can be chosen.
+   - **Alternative HRI:** Using an alternative HRI to understand a guest causes a score reduction of 75 points.
+   - **Recognizing People:** If the robot has to ask for help to identify people, the score is reduced by 200 points.
+
+## Instructions
+
+### To Referee
+The referees need to:
+- Assign name, drink, and one interest to three volunteers.
+- Arrange (and re-arrange) people in the living room.
+- Change the selection in the beverage area.
+- Open the door when requested by the robot.
+
+### To OC
+#### During setup day:
+- Announce beverage location.
+
+#### At least two hours before the test:
+- Announce the starting position.
+- Announce the host's name, favorite drink, and interest.
+- Recruit five volunteers: one volunteer as host, two as arriving guests, and two as passive guests.
+
+## Score sheet
+
+### Main Goal
+| Task | Points | Count | Total |
+|------------------------------|--------|-------|-------|
+| Offer a free seat to the new guest | 100 | ×2 | 200 |
+| Show the guest around (navigate to the beverage area and living room) | 30 | ×2 | 60 |
+| Look in the direction of navigation or at the navigation goal | 15 | ×2 | 30 |
+| Tell position of favorite drink | 20 | ×2 | 40 |
+| Look at the person talking | 75 | ×2 | 150 |
+| Introduce both guests to each other | 180 | ×1 | 180 |
+
+### Bonus Rewards
+| Task | Points | Count | Total |
+|-----------------------------------------------|--------|-------|-------|
+| Open the entrance door for a guest | 200 | ×2 | 400 |
+| State a similarity between an interest between two or more persons | 50 | ×1 | 50 |
+| Describe the first guest to the second guest before reaching the living room (per correct visual attribute) | 30 | ×4 | 120 |
+
+### Penalties
+| Task | Deduction | Count | Total |
+|-----------------------------------------------------|---------|-------|-------|
+| Wrong guest information was memorized (continue with wrong name, drink, or interest) | -20 | ×6 | -120 |
+| Describe the first guest to the second guest before reaching the living room (per incorrect visual attribute) | -30 | ×4 | -120 |
+| Introduce the wrong persons | -120 | ×1 | -120 |
+
+### Deus Ex Machina
+| Task | Deduction | Count | Total |
+|----------------------|---------|-------|-------|
+| Alternative HRI | -75 | ×2 | -150 |
+| Not recognizing people | -200 | ×2 | -400 |
+
+
+##必要な家具等
+Sofa（２人座り）,chair（x2）, drinkを置くテーブル，
+ボランティア x3
