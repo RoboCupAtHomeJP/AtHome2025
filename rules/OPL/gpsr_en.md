@@ -17,7 +17,7 @@ The robot is asked to understand and execute commands requiring a wide range of 
 
 - **Main Goal**: Execute 3 commands requested by the operator.
 
-- **Optional Goals**: Understand a command given by a non-expert operator.
+- **Optional Goals**: Understand a command given by a default operator.
 
 ## Focus
 
@@ -53,13 +53,13 @@ The robot is asked to understand and execute commands requiring a wide range of 
     Depending on the category, the `TC` will choose an arbitrary command and share its content with the *host*.
         - **DEM Category**: Instructions with pre-defined sentence structure.
         - **Regular Category**: Instructions generated from the [Command Generator - Branch: rcj25_for_opl](https://github.com/RoboCupAtHomeJP/CommandGenerator/tree/rcj25_for_opl).
-    
-    1. **Pausing the Timer**: The referee might pause the timer as soon as the robot reaches the *Instruction Point* to give time to set up the arena for the next command.
-    The timer resumes as soon as the referee steps back in front of the robot for the next command.
 
     1. **Start**: The `TC` gives the *start signal* and starts the timer.
     The team completes the setup (pressing the start button, etc.) and leaves the area.
     **No complex setup procedures are allowed, such as pressing two or more buttons.**
+
+    1. **Pausing the Timer**: The `TC` might pause the timer as soon as the robot reaches the *Instruction Point* to give time to set up the arena for the next command.
+    The timer resumes as soon as the `TC` steps back in front of the robot for the next command.
 
     1. **Goal**: The robot performs the command phase and service phase for **three (3) times**.
 
@@ -81,8 +81,8 @@ The robot is asked to understand and execute commands requiring a wide range of 
 
 ### Command Generator
 
-Commands are generated using the [Command Generator](https://github.com/RoboCupAtHomeJP/CommandGenerator/tree/rcj24_for_opl).
-The TC generates arbitrarily the commands in advance to confirm the commands are correct according to the environment.
+Commands are generated using the [Command Generator - Branch: rcj25_for_opl](https://github.com/RoboCupAtHomeJP/CommandGenerator/tree/rcj25_for_opl).
+The `TC` generates arbitrarily the commands in advance to confirm the commands are correct according to the environment.
 
 If the team chooses *DEM Category*, while maintaining impartiality, the command given will be prepared in advance and based on the [DEM Category Sentence Structure](). 
 
