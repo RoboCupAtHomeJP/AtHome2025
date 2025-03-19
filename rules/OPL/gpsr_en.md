@@ -84,10 +84,10 @@ The robot is asked to understand and execute commands requiring a wide range of 
 Commands are generated using the [Command Generator - Branch: rcj25_for_opl](https://github.com/RoboCupAtHomeJP/CommandGenerator/tree/rcj25_for_opl).
 The `TC` generates arbitrarily the commands in advance to confirm the commands are correct according to the environment.
 
-If the team chooses *DEM Category*, while maintaining impartiality, the command given will be prepared in advance and based on the [DEM Category Sentence Structure](). 
+If the team chooses *DEM Category*, while maintaining impartiality, the command given will be prepared in advance and based on the [DEM Category Sentence Structure](#dem-category-sentence-structure). 
 
 
-### Skipping Commands (1.5 Rule)
+### Skipping Commands - 1.5 Rule
 
 The competing team is able to skip to the next command if the robot misunderstood the given command by the *host*.
 
