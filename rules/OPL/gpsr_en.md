@@ -35,11 +35,11 @@ The robot is asked to understand and execute commands requiring a wide range of 
   The *Instruction Point* is announced during the *Setup Days*.
 - **People**:
   - **Host**: The *host* instructs the robot commands given by the `TC`.
-  The *host* may be a person different from the competing team.
-  However, 
+  The *default host* is a `TC` member.
+  However, the competing team can decided whether to choose an *internal host* (member of the competing team) before the task begins during the *Setup*.
+  In such case, DEM scoring deduction will be applied.
   - **Guests**: Guests interact with the robot through gestures and other means depending on the selected task.
-  Up to three (3) guests will be inside the *Arena*.
-
+  Also, the number of guests will vary based on the selected commands, typically ranging from 1 to 5.
 
 ## Procedure
 
@@ -152,7 +152,7 @@ However, the given points will be reflected based on its weight, defined on [Wei
 > `POSE/GESTURE`, `OBJ_COMP`, `PERS_INFO`, `QUESTION_LIST` and `TELL_LIST` will be selected through Team Leaders Meeting or Discord．
 
 > [!IMPORTANT]
-> Any `greeting` commands will not be selected for OPL.
+> Any `greeting` commands from the CmdGen will **not** be selected for OPL because of scoring difficulties.
 
 ### Steps per Task
 
@@ -188,7 +188,8 @@ The variable $Weight$ is defined in [Weights per Category](#weights-per-category
 | &emsp; - Execute the 3rd command                        | $(60 \times 4) \times Weight$ |
 | &emsp; - Exit the *Arena* after executing all commands  | $20$ |
 | ***Deus Ex Machina***                                                   |  |
-| &emsp; - Understand the command using alternative means                 | $3 \times -10$ |
+| &emsp; - Understand the command with an *internal host*                 | $3 \times -2$ |
+| &emsp; - Understand the command using QR code                           | $3 \times -10$ |
 | &emsp; - Execute the 1st command with $h (\le 10)$ times human help(s)  | $-6h \times Weight$ |
 | &emsp; - Execute the 2nd command with $h$ times human help(s)           | $-12h \times Weight$ |
 | &emsp; - Execute the 3rd command with $h$ times human help(s)           | $-24h \times Weight$ |
@@ -197,7 +198,8 @@ The variable $Weight$ is defined in [Weights per Category](#weights-per-category
 | &emsp; - Not attending (absence without permission)     | $-500$ |
 | **Total Score**                                         | $500$ |
 
-**Score Sheet for the Scorer**: [GPSR-score_sheet](./doc/RCJ2024_OPL_GPSR-score_sheet.pdf)
+**Score Sheet for the Scorer**: GPSR-score_sheet (TBD)
+<!-- **Score Sheet for the Scorer**: [GPSR-score_sheet](./doc/RCJ2025_OPL_GPSR-score_sheet.pdf) -->
 
 
 ## Instructions
