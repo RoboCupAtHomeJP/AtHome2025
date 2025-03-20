@@ -26,10 +26,9 @@ Kachaka by Preferred Robotics is used.
 
 ## Scenario
 
-1. **Arrangement**: The `TC` instructs the team to move the robot to the starting position. According to the `TC`'s instructions, the team arranges an initial six objects.
+1. **Arrangement**: The `TC` instructs the team to move the robot to the starting position. According to the `TC`'s instructions, the team arranges objects.
 1. **Start**: The teams complete the final setup (e.g. pushing the start button) and leave the arena. Complex setup procedures such as pressing more than two buttons are not allowed.
 1. **Door opening**: `team member` opens the door at the starting signal. The robot recognizes that the door has opened and autonomously enters the arena.
-1. **Additional object**: The `TC` adds 6 more placed objects when there are only 2 objects left to be placed.
 
 ## Objects
 
@@ -48,12 +47,12 @@ Please refer to the [Objects](gr_en.md#objects) in the General Rules & Regulatio
 
 The storage locations for each object category are as follows:
 
-| ID | Storage Destination (Room) | Object Category |
-| --- | --- | --- |
-| x | Counter                      | Food         |
-| x | Box​                          | Unknown      |
-| x | Kachaka Shelf A (Bed room)   | Kitchen ​|
-| x | Kachaka Shelf B (Book shelf) | Task​   |
+| Storage Destination | Initial location | Final destination |  Object Category |
+| ------------------|------- | ------ | ------------ |
+| Counter           | Living | Living | Food         |
+| Box​               | Living | Living | Unknown      |
+| Kachaka Shelf A   | Living | Room A | Kitchen ​     |
+| Kachaka Shelf B   | Living | Room B | Task​         |
 ​
 
 ## Competition Environment
@@ -73,29 +72,27 @@ The following Deus ex Machina will be adopted in this task. With Deus ex Machina
 
 |Action|Bypassing|
 |------|---------|
-| Object grasping | `TC` holds the object instructed by the robot and gives it to the robot (or places it in a specific location). At this time, the robot needs to accurately convey the object's position, name, instructions, etc to the `TC` |
+| Object grasping | `TC` holds the object instructed by the robot and gives it to the robot (or store it in a specific location). At this time, the robot needs to accurately convey the object's position, name, instructions, etc to the `TC` |
 | Object placement | `TC` places the object that the robot is holding (or is in a specific location) in the location specified by the robot. At this time, the robot needs to accurately convey the object's placement position, name, instructions, etc to the `TC` |
 | Object delivery | The guest receives the object that the robot is holding (or is in a specific location) without being handed over by the robot. At this time, the robot needs to accurately convey the guest's location, object name, instructions, etc to the `TC` |
 
-
 ## Score Sheet
 
-| Action                                              | Score |
-| --------------------------------------------------- | ----- |
-| Move to living room | $20$ |
-| Grasp the object                                        | $20 \times 12$ |
-| Store the object                         | $20 \times 12$ |
-| **Bonus**                                         |      |
-| Move the mobile shelf to the designated room                  | $20 \times 2$ |
-| Store the object on the mobile shelf to the final destination     | $25$ each |
-| **Penalty**                                     |       |
-| Not attending (without prior notice)                                       | $-500$  |
-| Place the object in the wrong location                          | $-10$ each  |
-|                                                     |       |
-| Total (without bonus)                          | $500$   |
+| Action                                                  | Score           |
+| ------------------------------------------------------- | --------------- |
+| Move to living room                                     | $20$            |
+| Grasp the object                                        | $10 \times 12$  |
+| Store the object                                        | $10 \times 12$  |
+| Store the object in the designated destination          | $-10$ each      |
+| **Bonus**                                               |                 |
+| Move the mobile shelf to the designated room            | $20 \times 2$   |
+| Store the object on the mobile shelf to the final destination | $25$ each |
+| **Penalty**                                             |                 |
+| Not attending (without prior notice)                    | $-500$          |
+|                                                         |                 |
+| Total (without bonus)                                   | $500$           |
 
 **Score Sheet for the Scorer**: [TU-score_sheet](./doc/RCJ2024_OPL_TU-score_sheet.pdf)
-
 
 # Instructions
 
