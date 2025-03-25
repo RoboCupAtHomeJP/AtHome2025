@@ -23,7 +23,7 @@ Discord is the official communication platform for @Home League. There, informat
 ### OPL
 
 ルールはRoboCup2024 World Championship @HomeのRulesbookを基に実施されます．
-Rules are based on RoboCup2024 World Championship @Home OPL.
+Rules are based on RoboCup2024 World Championship @Home.
 
 > [!IMPORTANT]
 > ルールの詳細はまだ作成中です．最終版はmainブランチにマージされます． / Task rules are not published yet. The final version will be merged into the main branch.
