@@ -27,7 +27,7 @@
 ## セットアップ(Setup)
 
 - **場所 (Locations)**:
-  - **競技場所 (Task location)**: タスクは*Arena*内で行われるが，コマンドによってはロボットが外に出ることがある．
+  - **競技場所 (Task location)**: タスクは*Arena*内で行われるが，コマンドによってはロボットが*Arena*外に出ることがある．
   このタスクでは，*Arena*は通常の状態となる．
   - **開始位置 (Start Location)**: ロボットは*Setup Days*に発表される事前定義された場所 (*predefined location*)から開始する．
   `TC`から開始合図 (*start signal*)が出る際に，ロボットは*Instruction Point*に向かって移動する．
