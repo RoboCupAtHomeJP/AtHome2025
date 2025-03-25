@@ -58,7 +58,7 @@ The robot is asked to understand and execute commands requiring a wide range of 
     The team completes the setup (pressing the start button, etc.) and leaves the area.
     **No complex setup procedures are allowed, such as pressing two or more buttons.**
 
-    1. **Pausing the Timer**: The `TC` might pause the timer as soon as the robot reaches the *Instruction Point* to give time to set up the arena for the next command.
+    1. **Pausing the Timer**: The `TC` pause the timer as soon as the robot reaches the *Instruction Point* to give time to set up the arena for the next command.
     The timer resumes as soon as the `TC` steps back in front of the robot for the next command.
 
     1. **Goal**: The robot performs the command phase and service phase for **three (3) times**.
