@@ -15,9 +15,9 @@ HandymanとInteractive Cleanupの課題作成方法については，動画で�
 
 ## 問題説明用スプレッドシート
 以下のテンプレート（Googleスプレッドシート）を複製し、作成した課題の説明資料を作成してください。確認作業や本番での解説などで利用します。
-- [Handyman Task Description Template](https://docs.google.com/spreadsheets/d/1mMqzx-0CZG0YOU-FLNQnZLh0BB7g3noFKtWkBDInizA/edit?usp=sharing)
-- [InteractiveCleanup Task Description Template](https://docs.google.com/spreadsheets/d/1-ZKrXuRVkZL1UqjX_ld2nFJ09bWUW1WfOwaq7lt5qFg/edit?usp=sharing)
-- [Human_Navigation Task Description Template](https://docs.google.com/spreadsheets/d/1SK99wUuujxUdwD_PsWOkBpM4jD_pY_QRzsUibcTXRNU/edit?usp=sharing)
+- [Handyman Task Description Template](https://docs.google.com/spreadsheets/d/1rPmkxbCXaMDxm8vFdhXVX6iI97Ic1RMEhBqa416cX1U/edit?usp=sharing)
+- [InteractiveCleanup Task Description Template](https://docs.google.com/spreadsheets/d/10hufG7OxqV8KWRTGucSYoxUU08PZubpvKP3R17ttzLA/edit?usp=sharing)
+- [Human_Navigation Task Description Template](https://docs.google.com/spreadsheets/d/1976HGxWaA7eZPElrHTAGTpyl26-kwQAitmzoIjTUPJg/edit?usp=sharing)
 
 
 
