@@ -1,6 +1,6 @@
 [Japanese](./tc_ja.md) | [English](./tc_en.md)
 
-# Technical Challenge
+# Open Challenge
 
 ## Background and Concept
 The aim of this competition is to demonstrate and showcase the capabilities of each team's robot system as a life support robot without the restrictions of competition rules. Teams are encouraged to unveil the latest research and development in new approaches and applications for life support robots.  
