@@ -33,7 +33,7 @@ For videos and details of each competition, please click on the respective links
 - ### [Handyman](./hm_en.md)
 - ### [Interactive Cleanup](./ic_en.md)
 - ### [Human Navigation](./hn_en.md)
-- ### [Technical Challenge]()
+- ### [Open Challenge](./tc_en.md)
 
 ## For New Teams
 If you are a new team, please check [here](./new_team_en.md) for overview videos and setup instructions for each competition.
