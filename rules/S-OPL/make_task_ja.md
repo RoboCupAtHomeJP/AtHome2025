@@ -7,9 +7,11 @@
 公平性の観点から，競技で使用する問題の一部を各チームで作成していただきます．
 問題作成手順は以下の各競技の問題作成手順からご確認ください．
 
-HandymanとInteractive Cleanupの課題作成方法については，動画でも説明しておりますので，こちらから確認ください．
-
+HandymanとInteractive Cleanupの課題作成方法については，動画でも説明しておりますので，こちらから確認ください．  
 [課題作成手順動画](https://youtu.be/JrrpMxX3Vh8)
+
+競技で利用するオブジェクトは以下から参照できます．  
+[RoboCupObject LabelList](https://docs.google.com/spreadsheets/d/1wPNkMJb3cZLfoFjSfxooi5TcewXJTZpM6dB_pHxJ6UM/edit?usp=sharing)
 
 ## 問題説明用スプレッドシート
 以下のテンプレート（Googleスプレッドシート）を複製し、作成した課題の説明資料を作成してください。確認作業や本番での解説などで利用します。
@@ -283,8 +285,9 @@ HandymanとInteractive Cleanupの課題作成方法については，動画で�
    - `taskInfoList`には，新レイアウト情報を記載する．targetはダミーなので適当にレイアウトに存在するGraspableObjectsの中の一番上のオブジェクトを記載し，destinationは`destination#01`固定．この時点では`destination#01`です．`#00`ではありません．
 <div align="center"><img src="./img/make_task/mthn_16.png" width="100%"></div>
 
-10. レイアウト確認用シーンを実行してエラーが発生することを確認します．ROS側は[サンプルのROSノード](https://github.com/RoboCupatHomeSim/human-navigation-ros#how-to-execute-sample-ros-node)を起動します．`destination#01`は存在しないはずなので，エラーが出るはずです．
-11. レイアウト確認用のコンフィグファイルを修正します．宛先を`destination#00`にします．
+10. レイアウト確認用シーンを実行してエラーが発生することを確認します．ROS側は
+    [サンプルのROSノード](https://github.com/RoboCupatHomeSim/human-navigation-ros#how-to-execute-sample-ros-node)を起動します．`destination#01`は存在しないはずなので，エラーが出るはずです．
+12. レイアウト確認用のコンフィグファイルを修正します．宛先を`destination#00`にします．
 <div align="center"><img src="./img/make_task/mthn_17.png" width="100%"></div>
 
 
