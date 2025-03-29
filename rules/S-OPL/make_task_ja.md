@@ -249,8 +249,7 @@ HandymanとInteractive Cleanupの課題作成方法については，動画で�
   6. 課題作成用シーンを開きます．
   7. 新レイアウトを含んだunitypackageファイルをインポートします．インポートは[Assets]-[Import Package]-[Custom Package...]から可能です．全ての新レイアウトに関して繰り返します．
   8. 課題作成用シーンに新レイアウトを追加します．シーンに新レイアウトPrefabをドラッグ&ドロップで追加します．HiddenFiles配下のPrefab(destination#XXを含んでいるもの)です．
-  9. Moderatorにアタッチされている HumanNaviSessionManager のEnvironments に新レイアウトを追加します．Environmentsのサイズを追加するレイアウト数だけ大きくし，Elementに新レイアウトを全て追加します．
-  <div align="center"><img src="./img/make_task/mthn_9.png" width="60%"></div>
+  9. Moderatorにアタッチされている HumanNaviSessionManager のEnvironments に新レイアウトを追加します．Environmentsのサイズを追加するレイアウト数だけ大きくし，Elementに新レイアウトを全て追加します．<div align="center"><img src="./img/make_task/mthn_9.png" width="60%"></div>
   10. 課題作成用シーンを実行して，出題予定の新規問題・過去問の動作確認を行います．ROS側は[サンプルのROSノード](https://github.com/RoboCupatHomeSim/human-navigation-ros#how-to-execute-sample-ros-node)を起動します．課題が正常にクリアできるか確認するほか，無関係の物体の把持や戸棚の開閉などレイアウト自体が正常かどうかも確認してください．
 
 ## レイアウト確認用Unityシーンの作成
