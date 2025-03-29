@@ -12,9 +12,9 @@ Objects to be used in the competition are available for reference below.
 
 ## Spreadsheets for Task Description
 Duplicate the following Google Spreadsheet templates and describe the task you created. This description will be used for commentary in the competition and checking by admin members.
-- [Handyman Task Description Template](https://docs.google.com/spreadsheets/d/1mMqzx-0CZG0YOU-FLNQnZLh0BB7g3noFKtWkBDInizA/edit?usp=sharing)
-- [InteractiveCleanup Task Description Template](https://docs.google.com/spreadsheets/d/1-ZKrXuRVkZL1UqjX_ld2nFJ09bWUW1WfOwaq7lt5qFg/edit?usp=sharing)
-- [Human_Navigation Task Description Template](https://docs.google.com/spreadsheets/d/1SK99wUuujxUdwD_PsWOkBpM4jD_pY_QRzsUibcTXRNU/edit?usp=sharing)
+- [Handyman Task Description Template](https://docs.google.com/spreadsheets/d/1rPmkxbCXaMDxm8vFdhXVX6iI97Ic1RMEhBqa416cX1U/edit?usp=sharing)
+- [InteractiveCleanup Task Description Template](https://docs.google.com/spreadsheets/d/10hufG7OxqV8KWRTGucSYoxUU08PZubpvKP3R17ttzLA/edit?usp=sharing)
+- [Human_Navigation Task Description Template](https://docs.google.com/spreadsheets/d/1976HGxWaA7eZPElrHTAGTpyl26-kwQAitmzoIjTUPJg/edit?usp=sharing)
 
 # Handyman Competition Task Creation
 
