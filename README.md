@@ -67,9 +67,9 @@ Rules are based on RoboCup2024 World Championship @Home Playground rules as foll
 
 ### S-OPL
 
-* Handyman
-* Interactive Cleanup
-* Human Navigation
-* Open Challenge
+* [Handyman](rules/S-OPL/hm_ja.md)
+* [Interactive Cleanup](rules/S-OPL/ic_ja.md)
+* [Human Navigation](rules/S-OPL/hn_ja.md)
+* [Open Challenge](rules/S-OPL/tc_ja.md)
 
 ![](./RCJ25_0311.jpg)
