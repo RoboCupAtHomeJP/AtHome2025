@@ -22,14 +22,18 @@ Discord is the official communication platform for @Home League. There, informat
 
 ### OPL
 
-Rules are based on RoboCup 2024.
+ルールはRoboCup2024 World Championship @HomeのRulesbookを基に実施されます．
+Rules are based on RoboCup2024 World Championship @Home.
 
-* Carry My Luggage
+> [!IMPORTANT]
+> ルールの詳細はまだ作成中です．最終版はmainブランチにマージされます． / Task rules are not published yet. The final version will be merged into the main branch.
+
+* Carry My Luggage (Education League): [EN](rules/EDU/cml_en.md) / [JA](rules/EDU/cml_ja.md)
 * ~~Receptionist~~
-* GPSR
-* Open Challenge
+* GPSR: [EN](rules/OPL/gpsr_en.md) / [JA](rules/OPL/gpsr_ja.md)
+* Open Challenge: [EN](rules/OPL/gpsr_en.md) / [JA](rules/OPL/gpsr_ja.md)
 * Kachaka Challenge (Extended Tidy Up)
-* Poster
+* Poster: [EN](rules/OPL/ps_en.md) / [JA](rules/OPL/ps_ja.md)
 
 ### DSPL
 
