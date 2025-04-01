@@ -41,14 +41,14 @@ Rules are based on RoboCup 2025.
 
 * Storing Groceries
 * Restaurant
-* GPSR
+* [GPSR](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/gpsr.md)
 
 #### Regular Category
 
 * Storing Groceries
 * Restaurant
-* EGPSR
-* Receptionist
+* [EGPSR](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/egpsr.md)
+* [Receptionist](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/receptionist.md)
 * Clean the Table
 * Help Me Carry
 
