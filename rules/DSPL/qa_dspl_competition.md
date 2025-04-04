@@ -14,5 +14,9 @@
 > **回答**  
 追加されます．Dropping the bagと見なされ-50をカウントします． 
 
+**small objectとhard-to-see objectは事前に公開されますか？**
+> **回答**  
+公開されません． 
+
 ## Restaurant
 
