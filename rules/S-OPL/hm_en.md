@@ -26,7 +26,7 @@ The competition proceeds as follows:
 
 1. Team members start the SIGVerse ROSBridge server and the robot controller.
 
-2. The Technical Committee (TC) starts the Handyman program.
+2. The Organizational Committee (OC) starts the Handyman program.
 
 3. The positions and orientations of the robot and the objects to be grasped are initialized.
 
@@ -115,8 +115,8 @@ The timer starts when the TC clicks the start button.
     <td align="center"> -10 <br> -10 <br> -10 <br> 0 <br> 0 </td>
   </tr>
   <tr>
-    <td> <b>Total (per session)</b> </td>
-    <td align="center"> <b>150</b> </td>
+    <td> <b>Total Score (excluding penalties and bonuses) (per session)</b> </td>
+    <td align="center"> <b>100</b> </td>
   </tr>
 </table>
 

@@ -27,7 +27,7 @@
 
 1. チームメンバーがSIGVerse ROSBridgeサーバ，ロボットコントローラを起動する．
 
-2. 技術委員(TC)がHandyman プログラムを起動する．
+2. 技術委員(OC)がHandyman プログラムを起動する．
 
 3. ロボットと把持するオブジェクトの位置・姿勢を初期化する．
 
@@ -116,8 +116,8 @@
     <td align="center"> -10 <br> -10 <br> -10 <br> 0 <br> 0 </td>
   </tr>
   <tr>
-    <td> <b>合計（1セッション当たり）</b> </td>
-    <td align="center"> <b>150</b> </td>
+    <td> <b>総得点 (ペナルティ，ボーナスを除く) （1セッション当たり）</b> </td>
+    <td align="center"> <b>100</b> </td>
   </tr>
 </table>
 
