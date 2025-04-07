@@ -75,7 +75,7 @@ Each session ends with one of the following events:
 
 ## Number of Sessions and Time Limit
 The task consists of **6** sessions, with a time limit of **10** minutes per session.  
-The timer starts when the TC clicks the start button.
+The timer starts when the OC clicks the start button.
 
 ## Score Sheet
 

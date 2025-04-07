@@ -127,14 +127,14 @@ Examples of objects to be grasped by the robot are shown below. The final list o
 The avatar indicates the destination of the target object with the second pointing gesture. Destinations are either on furniture or inside a trash bin. Examples of destinations used in the task are shown below. The list of destination objects will be announced 14 days before the competition.  
 <div align="center"><img src="./img/ic_5.png" width="80%"></div>
 
-## Referee (TC) Actions
+## Referee (OC) Actions
 - Gather 30 minutes before the competition starts to check connections with the competitors.
 - Score the competition based on the score sheet.
-- Verify the scoring with other TCs.
+- Verify the scoring with other OCs.
 - Submit the score sheet.
 
 > [!NOTE]
-> TCs are selected from each team and will perform the above tasks for other teams' competitions.
+> OCs are selected from each team and will perform the above tasks for other teams' competitions.
 
 ## Remarks
 
