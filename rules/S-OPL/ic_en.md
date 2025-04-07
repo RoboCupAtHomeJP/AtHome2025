@@ -24,7 +24,7 @@ The competition proceeds as follows:
 
 1. Team members start the SIGVerse ROSBridge server and the robot controller.
 
-2. The Technical Committee (TC) starts the Interactive Cleanup program.
+2. The Organizational Committee (OC) starts the Interactive Cleanup program.
 
 3. The positions and orientations of the robot and the objects to be grasped are initialized.
 
@@ -143,12 +143,3 @@ The avatar performs two pointing gestures. The first gesture identifies the targ
 
 ### Robot and Avatar
 The initial positions of the robot and avatar are always the same for all sessions. The robot's initial posture is set so that it can capture the human avatar image using `HeadCenterCamera`.
-
-### System Setup and Competition Rules
-
-#### Preparation Schedule
-- The detailed schedule and time limits for the competition day will be updated 7 days before the competition.
-- Teams must set up the robot controller PC and stop software modifications N hours before the competition starts. The value of N will be announced 7 days before the competition and will range from 0 ≤ N ≤ 3.
-
-#### Software Execution
-Teams execute the robot controller. Upon notification from the Technical Committee, the Interactive Cleanup software is executed on the Windows side. In case of software trouble, the Technical Committee will follow the troubleshooting steps described in [Troubleshooting](./gr_en.md/#Troubleshooting). In such cases, the timer within the software will be paused, but teams must complete all sessions within the real-world time limit. If the team's software cannot complete all sessions within the real-world time limit, the cumulative score up to the session where the time limit expired will be used as the total score. The real-world time limit is calculated as [time limit per session × number of sessions] minutes.
