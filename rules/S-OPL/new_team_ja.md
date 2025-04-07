@@ -15,7 +15,7 @@ SIGVerseについてはhttp://www.sigverse.orgを確認してください。
 | 1  | OS         | Windows 10     |
 | 2  | Unity      | [Unity 2021.3.3f1][download unity] |
 | 3  | IPアドレス | 192.168.0.1    |
-| 4  | Note       | Unityのシステム要件を以下に示します．<br>https://docs.unity3d.com/Manual/system-requirements.html<br> Oculus Quest 2のシステム要件は以下の通りです。<br>https://store.facebook.com/en-us/help/quest/articles/headsets-and-accessories/oculus-link/ |
+| 4  | Note       | Unityのシステム要件を以下に示します．<br>https://docs.unity3d.com/Manual/system-requirements.html<br> Meta Quest 2のシステム要件は以下の通りです。<br>https://store.facebook.com/en-us/help/quest/articles/headsets-and-accessories/oculus-link/ |
 
 ### Ubuntu PC
 
@@ -33,9 +33,9 @@ SIGVerseについてはhttp://www.sigverse.orgを確認してください。
 
 参加者は、接続速度1Gbpsの1000BASE-Tスイッチングハブを使用すること。
 
-### Oculus Quest 2
+### Meta Quest 2
 
-参加者は競技課題に応じてOculus Quest 2を使用すること。
+参加者は競技課題に応じてMeta Quest 2を使用すること。
 
 [download unity]:https://unity3d.com/get-unity/download/archive "download"
 [ros installation]:http://wiki.ros.org/noetic/Installation/Ubuntu "installation"
@@ -61,7 +61,7 @@ UbuntuにROSをインストールしてください。
 
 ### Oculusソフトウェア
 
-Oculus Quest 2を使用するには、Oculus SoftwareとSteamVRをインストールする必要があります。
+Meta Quest 2を使用するには、Oculus SoftwareとSteamVRをインストールする必要があります。
 
 [download Oculus Software (OculusSetup.exe)](https://store.facebook.com/quest/setup/)  
 [download Steam](https://store.steampowered.com/about/)  
