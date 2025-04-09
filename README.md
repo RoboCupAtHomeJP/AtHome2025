@@ -34,23 +34,23 @@ Rules are based on RoboCup 2024.
 ### DSPL
 
 Rules are based on RoboCup 2025.
-
+(DSPL競技に関する[QA](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/qa_dspl_competition.md))
 #### Beginner's Category
 
 ルールや採点方法に変更が加えられる予定です． / Rules and scoring criteria will be modified.
 
 * Storing Groceries
-* Restaurant
+* [Restaurant](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/restaurant_for_beginner_league.md)
 * GPSR
 
 #### Regular Category
 
 * Storing Groceries
-* Restaurant
+* [Restaurant](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/restaurant.md)
 * EGPSR
 * Receptionist
 * Clean the Table
-* Help Me Carry
+* [Help Me Carry](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/hmc.md)
 
 ### Bridge Competition (BRIDGE)
 
