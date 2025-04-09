@@ -33,7 +33,7 @@
 - ### [Hadyman](./hm_ja.md)
 - ### [Interactive Cleanup](./ic_ja.md)
 - ### [Human Navigation](./hn_ja.md)
-- ### [Technical Challenge]()
+- ### [Open Challenge](./tc_ja.md)
 
 ## 新規参入チームの方々へ
 新規参入チームの方は[こちら](./new_team_ja.md)から，それぞれの競技や使用する環境のセットアップ方法をご確認ください．
