@@ -25,11 +25,11 @@ The flow of the competition is as follows:
 
 1. Team members launch the SIGVerse ROSBridge server, and robot controller.
 
-2. The operator (TC) launches Human Navigation Program.
+2. The Organizational Committee (OC) launches Human Navigation Program.
 
-3. The participant wears the Oculus Rift & Touch.
+3. The participant wears the Meta Quest 2.
 
-4. The participant presses the session start button.
+4. The OC presses the session start button.
 
 5. The competition environment is loaded, and the avatar's position and orientation are initialized.
 
@@ -66,7 +66,7 @@ The participant can request guidance_message. When a new guidance_message is req
   - The moderator sends the "Mission_complete" message to the robot.
 - **If there are remaining sessions**:
   - The moderator sends the "Go_to_next_session" message to the robot.
-  - The participant moves to the next team area and wears the Oculus Rift & Touch.
+  - The participant moves to the next team area and wears the Meta Quest 2.
   - The operator presses the Go_to_next_session button. 
   - Return to step 5.
 
@@ -74,7 +74,7 @@ The participant can request guidance_message. When a new guidance_message is req
 > For more details, please refer to the [wiki](https://github.com/RoboCupatHomeSim/human-navigation-unity/wiki/SystemOverview) on GitHub.
 
 ## Number of Sessions and Time Limit
-The task consists of **8** sessions, with a time limit of **3** minutes for each session.
+The task consists of **12** sessions, with a time limit of **3** minutes for each session.
 The timer starts when the technical committee clicks the start button.
 
 ## Score Sheet
@@ -137,14 +137,14 @@ Several environment examples are published on GitHub.
 - The number of rooms in the layout is always one. It will be a large room without partitions such as walls or doors.
 - Multiple types of environments are planned.
 
-## Role of the Referee (TC)
+## Role of the Referee (OC)
 - Gather 30 minutes before the start of the competition to check connections with competitors.
 - Score the competition based on the score sheet.
-- Confirm scoring content with other TCs.
+- Confirm scoring content with other OCs.
 - Submit the score sheet.
 
 > [!NOTE]
-> TCs are selected from among the teams and perform the above roles in other teams' competitions. 
+> OCs are selected from among the teams and perform the above roles in other teams' competitions. 
 
 
 ## Remarks
@@ -173,7 +173,7 @@ In all sessions, the initial position/orientation of the robot are (x, y, z, θ)
 
 ### Instructions from the Robot
 - The robot can issue instructions in natural language at any time.
-- Instructions in natural language are provided to the participant orally (using [SAPI](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms720151(v=vs.85)) and visually (using Unity's message board effect).
+- Instructions in natural language are provided to the participant orally (using [SAPI](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms720151(v=vs.85))) and visually (using Unity's message board effect).
 - Message boards, which can be displayed above the robot and in front of the avatar, can be used.
 - Instruction texts are displayed on the virtual message board for a few seconds.
 Teams can choose whether or not to use each message board.
@@ -192,7 +192,7 @@ To prevent accidental operation, the Oculus software is set to not activate unle
 If the participant accidentally opens the Oculus Home scene, they should press the Oculus button as quickly as possible to return to the session.
 The participant also learn how to return to the session from the Oculus Home scene during practice.
 - If the participant cannot return to the session within a short time (e.g., 5 seconds) after displaying Oculus Home, the team can request a retry.
-In this case, the new score will be adopted, even if it is lower than the initial score.
+In this case, the initial score will be discarded, and the new score will be adopted.
 Of course, a new participant without knowledge of the room layout and without a conflict of interest will be selected.
 
 
@@ -218,7 +218,7 @@ It is the team's responsibility to ensure that participant can understand senten
 
 ### VR Devices
 - For operating the avatar, participants use the following equipment:
-  - Oculus Rift & Touch
+  - Meta Quest 2
   - Wired earphones
   - Noise-canceling earmuffs
 
