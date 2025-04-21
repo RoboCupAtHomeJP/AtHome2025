@@ -56,7 +56,7 @@ Rules are based on RoboCup 2025.
 * Clean the Table
 * [Help Me Carry](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/hmc.md)
 
-### Bridge Competition (BRIDGE)
+### BRG (Bridge Competition)
 
 #### Overall Rules
 Rules are based on RoboCup2024 World Championship @Home Playground rules as follows,　
