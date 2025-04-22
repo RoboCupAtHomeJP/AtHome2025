@@ -1,6 +1,6 @@
 [Japanese](./tc_ja.md) | [English](./tc_en.md)
 
-# Technical Challenge
+# Open Challenge
 
 ## Background and Concept
 The aim of this competition is to demonstrate and showcase the capabilities of each team's robot system as a life support robot without the restrictions of competition rules. Teams are encouraged to unveil the latest research and development in new approaches and applications for life support robots.  
@@ -8,8 +8,8 @@ This competition allows the use of all types of systems and devices, including a
 At least one robot simulator or VR software must be used, with SIGVerse recommended, but the type of simulator or VR software does not affect the evaluation results. The evaluation of this competition is independent of the other competitions, and the Open Challenge award will be given to the team that excels in the criteria listed in 5.4.
 
 ## Time Allowance & Language Used
-Including Q&A, each team has 15 minutes to present.  
-The demonstration and presentation time total 10 minutes, and the Q&A session is 5 minutes. Also, each team cannot enter the field until the 15-minute timer starts and must return the field to its original state and exit the field within 15 minutes.  
+~Including Q&A, each team has 15 minutes to present.~  
+~The demonstration and presentation time total 10 minutes, and the Q&A session is 5 minutes. Also, each team cannot enter the field until the 15-minute timer starts and must return the field to its original state and exit the field within 15 minutes.~  
 Both the speech and slides must be in either Japanese or English, and Q&A will also be conducted in Japanese or English.
 
 ## Judges

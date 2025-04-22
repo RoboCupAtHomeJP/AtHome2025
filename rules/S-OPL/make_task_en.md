@@ -4,15 +4,17 @@
 
 From the perspective of fairness, each team is asked to create some of the problems used in the competition. Please check the problem creation procedures for each competition as follows.
 
-For Handyman and Interactive Cleanup task creation methods, please also refer to our video explanation available here.
-
+For Handyman and Interactive Cleanup task creation methods, please also refer to our video explanation available here.  
 [Task Creation Instruction Video](https://youtu.be/JrrpMxX3Vh8)
+
+Objects to be used in the competition are available for reference below.  
+[RoboCupObject LabelList](https://docs.google.com/spreadsheets/d/1wPNkMJb3cZLfoFjSfxooi5TcewXJTZpM6dB_pHxJ6UM/edit?usp=sharing)
 
 ## Spreadsheets for Task Description
 Duplicate the following Google Spreadsheet templates and describe the task you created. This description will be used for commentary in the competition and checking by admin members.
-- [Handyman Task Description Template](https://docs.google.com/spreadsheets/d/1mMqzx-0CZG0YOU-FLNQnZLh0BB7g3noFKtWkBDInizA/edit?usp=sharing)
-- [InteractiveCleanup Task Description Template](https://docs.google.com/spreadsheets/d/1-ZKrXuRVkZL1UqjX_ld2nFJ09bWUW1WfOwaq7lt5qFg/edit?usp=sharing)
-- [Human_Navigation Task Description Template](https://docs.google.com/spreadsheets/d/1SK99wUuujxUdwD_PsWOkBpM4jD_pY_QRzsUibcTXRNU/edit?usp=sharing)
+- [Handyman Task Description Template](https://docs.google.com/spreadsheets/d/1rPmkxbCXaMDxm8vFdhXVX6iI97Ic1RMEhBqa416cX1U/edit?usp=sharing)
+- [InteractiveCleanup Task Description Template](https://docs.google.com/spreadsheets/d/10hufG7OxqV8KWRTGucSYoxUU08PZubpvKP3R17ttzLA/edit?usp=sharing)
+- [Human_Navigation Task Description Template](https://docs.google.com/spreadsheets/d/1976HGxWaA7eZPElrHTAGTpyl26-kwQAitmzoIjTUPJg/edit?usp=sharing)
 
 # Handyman Competition Task Creation
 
@@ -225,8 +227,7 @@ Proceed with creating task files by adding task content sheets to a Google Sprea
   6. Open the task creation scene.
   7. Import the unitypackage file containing all new layouts. Import is possible via [Assets]-[Import Package]-[Custom Package...]. Repeat for all new layouts.
   8. Add new layouts to the task creation scene. Add new layout Prefabs to the scene by dragging and dropping them. Use Prefabs under the HiddenFiles (including destination#XX).
-  9. Add new layouts to the HumanNaviSessionManager attached to the Moderator in the Environments section. Increase the size of Environments by the number of new layouts and add all new layouts to the Elements.
-<div align="center"><img src="./img/make_task/mthn_9.png" width="60%"></div>
+  9. Add new layouts to the HumanNaviSessionManager attached to the Moderator in the Environments section. Increase the size of Environments by the number of new layouts and add all new layouts to the Elements. <div align="center"><img src="./img/make_task/mthn_9.png" width="60%"></div>
   10. Execute the task creation scene to verify the operation of planned new and past questions. Run the [sample ROS node](https://github.com/RoboCupatHomeSim/human-navigation-ros#how-to-execute-sample-ros-node) on the ROS side. Check if the task can be cleared normally and also verify if the layout itself is normal, including unrelated object grasping and cabinet opening and closing.
 
 ## Creating a Layout Verification Unity Scene

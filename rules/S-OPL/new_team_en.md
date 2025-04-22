@@ -15,7 +15,7 @@ The competition organizer will prepare the Windows computer to run the programs 
 | 1  | OS         | Windows 10     |
 | 2  | Unity      | [Unity 2021.3.3f1][download unity] |
 | 3  | IP Address | 192.168.0.1    |
-| 4  | Note       | System requirements for Unity are as below.<br>https://docs.unity3d.com/Manual/system-requirements.html<br> System requirements for Oculus Quest 2 are as below.<br>https://store.facebook.com/en-us/help/quest/articles/headsets-and-accessories/oculus-link/ |
+| 4  | Note       | System requirements for Unity are as below.<br>https://docs.unity3d.com/Manual/system-requirements.html<br> System requirements for Meta Quest 2 are as below.<br>https://store.facebook.com/en-us/help/quest/articles/headsets-and-accessories/oculus-link/ |
 
 ### Ubuntu PC
 
@@ -33,9 +33,9 @@ The participants need to prepare an Ubuntu computer. Participants need to instal
 
 Participants shall use 1000BASE-T switching hub with a connection speed of 1 Gbps.
 
-### Oculus Quest 2
+### Meta Quest 2
 
-Participants will use an Oculus Quest 2 depending on the competitive challenge.
+Participants will use an Meta Quest 2 depending on the competitive challenge.
 
 [download unity]:https://unity3d.com/get-unity/download/archive "download"
 [ros installation]:http://wiki.ros.org/noetic/Installation/Ubuntu "installation"
@@ -62,7 +62,7 @@ Please install the ROS on Ubuntu.
 
 ### Oculus Software
 
-In order to use Oculus Quest 2, you need to install Oculus Software and SteamVR.
+In order to use Meta Quest 2, you need to install Meta Software and SteamVR.
 
 [download Oculus Software (OculusSetup.exe)](https://store.facebook.com/quest/setup/)  
 [download Steam](https://store.steampowered.com/about/)  

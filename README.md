@@ -22,37 +22,41 @@ Discord is the official communication platform for @Home League. There, informat
 
 ### OPL
 
-Rules are based on RoboCup 2024.
+ルールはRoboCup2024 World Championship @HomeのRulesbookを基に実施されます．
+Rules are based on RoboCup2024 World Championship @Home.
 
-* Carry My Luggage
+> [!IMPORTANT]
+> ルールの詳細はまだ作成中です．最終版はmainブランチにマージされます． / Task rules are not published yet. The final version will be merged into the main branch.
+
+* Carry My Luggage (Education League): [EN](rules/EDU/cml_en.md) / [JA](rules/EDU/cml_ja.md)
 * ~~Receptionist~~
-* GPSR
-* Open Challenge
+* GPSR: [EN](rules/OPL/gpsr_en.md) / [JA](rules/OPL/gpsr_ja.md)
+* Open Challenge: [EN](rules/OPL/gpsr_en.md) / [JA](rules/OPL/gpsr_ja.md)
 * Kachaka Challenge (Extended Tidy Up)
-* Poster
+* Poster: [EN](rules/OPL/ps_en.md) / [JA](rules/OPL/ps_ja.md)
 
 ### DSPL
 
 Rules are based on RoboCup 2025.
-
+(DSPL競技に関する[QA](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/qa_dspl_competition.md))
 #### Beginner's Category
 
 ルールや採点方法に変更が加えられる予定です． / Rules and scoring criteria will be modified.
 
 * [Storing Groceries](rules/DSPL/storing_groceries.md)
-* Restaurant
-* GPSR
+* [Restaurant](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/restaurant_for_beginner_league.md)
+* [GPSR](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/gpsr.md)
 
 #### Regular Category
 
 * Storing Groceries
-* Restaurant
-* EGPSR
-* Receptionist
+* [Restaurant](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/restaurant.md)
+* [EGPSR](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/egpsr.md)
+* [Receptionist](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/receptionist.md)
 * Clean the Table
-* Help Me Carry
+* [Help Me Carry](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/hmc.md)
 
-### Bridge Competition (BRIDGE)
+### BRG (Bridge Competition)
 
 #### Overall Rules
 Rules are based on RoboCup2024 World Championship @Home Playground rules as follows,　
@@ -67,9 +71,10 @@ Rules are based on RoboCup2024 World Championship @Home Playground rules as foll
 
 ### S-OPL
 
-* Handyman
-* Interactive Cleanup
-* Human Navigation
-* Open Challenge
+* [General Rules](rules/S-OPL/gr_ja.md)
+* [Handyman](rules/S-OPL/hm_ja.md)
+* [Interactive Cleanup](rules/S-OPL/ic_ja.md)
+* [Human Navigation](rules/S-OPL/hn_ja.md)
+* [Open Challenge](rules/S-OPL/tc_ja.md)
 
 ![](./RCJ25_0311.jpg)

@@ -7,15 +7,17 @@
 公平性の観点から，競技で使用する問題の一部を各チームで作成していただきます．
 問題作成手順は以下の各競技の問題作成手順からご確認ください．
 
-HandymanとInteractive Cleanupの課題作成方法については，動画でも説明しておりますので，こちらから確認ください．
-
+HandymanとInteractive Cleanupの課題作成方法については，動画でも説明しておりますので，こちらから確認ください．  
 [課題作成手順動画](https://youtu.be/JrrpMxX3Vh8)
+
+競技で利用するオブジェクトは以下から参照できます．  
+[RoboCupObject LabelList](https://docs.google.com/spreadsheets/d/1wPNkMJb3cZLfoFjSfxooi5TcewXJTZpM6dB_pHxJ6UM/edit?usp=sharing)
 
 ## 問題説明用スプレッドシート
 以下のテンプレート（Googleスプレッドシート）を複製し、作成した課題の説明資料を作成してください。確認作業や本番での解説などで利用します。
-- [Handyman Task Description Template](https://docs.google.com/spreadsheets/d/1mMqzx-0CZG0YOU-FLNQnZLh0BB7g3noFKtWkBDInizA/edit?usp=sharing)
-- [InteractiveCleanup Task Description Template](https://docs.google.com/spreadsheets/d/1-ZKrXuRVkZL1UqjX_ld2nFJ09bWUW1WfOwaq7lt5qFg/edit?usp=sharing)
-- [Human_Navigation Task Description Template](https://docs.google.com/spreadsheets/d/1SK99wUuujxUdwD_PsWOkBpM4jD_pY_QRzsUibcTXRNU/edit?usp=sharing)
+- [Handyman Task Description Template](https://docs.google.com/spreadsheets/d/1rPmkxbCXaMDxm8vFdhXVX6iI97Ic1RMEhBqa416cX1U/edit?usp=sharing)
+- [InteractiveCleanup Task Description Template](https://docs.google.com/spreadsheets/d/10hufG7OxqV8KWRTGucSYoxUU08PZubpvKP3R17ttzLA/edit?usp=sharing)
+- [Human_Navigation Task Description Template](https://docs.google.com/spreadsheets/d/1976HGxWaA7eZPElrHTAGTpyl26-kwQAitmzoIjTUPJg/edit?usp=sharing)
 
 
 
@@ -247,8 +249,7 @@ HandymanとInteractive Cleanupの課題作成方法については，動画で�
   6. 課題作成用シーンを開きます．
   7. 新レイアウトを含んだunitypackageファイルをインポートします．インポートは[Assets]-[Import Package]-[Custom Package...]から可能です．全ての新レイアウトに関して繰り返します．
   8. 課題作成用シーンに新レイアウトを追加します．シーンに新レイアウトPrefabをドラッグ&ドロップで追加します．HiddenFiles配下のPrefab(destination#XXを含んでいるもの)です．
-  9. Moderatorにアタッチされている HumanNaviSessionManager のEnvironments に新レイアウトを追加します．Environmentsのサイズを追加するレイアウト数だけ大きくし，Elementに新レイアウトを全て追加します．
-  <div align="center"><img src="./img/make_task/mthn_9.png" width="60%"></div>
+  9. Moderatorにアタッチされている HumanNaviSessionManager のEnvironments に新レイアウトを追加します．Environmentsのサイズを追加するレイアウト数だけ大きくし，Elementに新レイアウトを全て追加します．<div align="center"><img src="./img/make_task/mthn_9.png" width="60%"></div>
   10. 課題作成用シーンを実行して，出題予定の新規問題・過去問の動作確認を行います．ROS側は[サンプルのROSノード](https://github.com/RoboCupatHomeSim/human-navigation-ros#how-to-execute-sample-ros-node)を起動します．課題が正常にクリアできるか確認するほか，無関係の物体の把持や戸棚の開閉などレイアウト自体が正常かどうかも確認してください．
 
 ## レイアウト確認用Unityシーンの作成
@@ -283,8 +284,9 @@ HandymanとInteractive Cleanupの課題作成方法については，動画で�
    - `taskInfoList`には，新レイアウト情報を記載する．targetはダミーなので適当にレイアウトに存在するGraspableObjectsの中の一番上のオブジェクトを記載し，destinationは`destination#01`固定．この時点では`destination#01`です．`#00`ではありません．
 <div align="center"><img src="./img/make_task/mthn_16.png" width="100%"></div>
 
-10. レイアウト確認用シーンを実行してエラーが発生することを確認します．ROS側は[サンプルのROSノード](https://github.com/RoboCupatHomeSim/human-navigation-ros#how-to-execute-sample-ros-node)を起動します．`destination#01`は存在しないはずなので，エラーが出るはずです．
-11. レイアウト確認用のコンフィグファイルを修正します．宛先を`destination#00`にします．
+10. レイアウト確認用シーンを実行してエラーが発生することを確認します．ROS側は
+    [サンプルのROSノード](https://github.com/RoboCupatHomeSim/human-navigation-ros#how-to-execute-sample-ros-node)を起動します．`destination#01`は存在しないはずなので，エラーが出るはずです．
+12. レイアウト確認用のコンフィグファイルを修正します．宛先を`destination#00`にします．
 <div align="center"><img src="./img/make_task/mthn_17.png" width="100%"></div>
 
 
