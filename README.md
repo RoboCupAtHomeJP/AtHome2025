@@ -39,7 +39,7 @@ Rules are based on RoboCup 2025.
 
 ルールや採点方法に変更が加えられる予定です． / Rules and scoring criteria will be modified.
 
-* Storing Groceries
+* [Storing Groceries](rules/DSPL/storing_groceries.md)
 * Restaurant
 * GPSR
 
