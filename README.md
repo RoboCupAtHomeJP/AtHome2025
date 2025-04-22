@@ -43,7 +43,7 @@ Rules are based on RoboCup 2025.
 
 ルールや採点方法に変更が加えられる予定です． / Rules and scoring criteria will be modified.
 
-* Storing Groceries
+* [Storing Groceries](rules/DSPL/storing_groceries.md)
 * [Restaurant](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/restaurant_for_beginner_league.md)
 * [GPSR](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/gpsr.md)
 
