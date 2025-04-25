@@ -43,7 +43,7 @@ This task focuses on pointing recognition, manipulation, mapping and navigation 
 - 3. **Goal**
 The task ends when the robot returns to the starting position.
 
-##　Local Rules
+## Local Rules
 - 1. The competition time is **7 minutes**
 
 - 2. There are three referees, one from each team that is not currently competing.
