@@ -56,6 +56,9 @@ Rules are based on RoboCup 2025.
 * Clean the Table
 * [Help Me Carry](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/hmc.md)
 
+#### Object List
+* [Object List](rules/DSPL/dspl_2025_object_list.pdf)
+
 ### BRG (Bridge Competition)
 
 #### Overall Rules
