@@ -32,7 +32,7 @@ Rules are based on RoboCup2024 World Championship @Home.
 * ~~Receptionist~~
 * GPSR: [EN](rules/OPL/gpsr_en.md) / [JA](rules/OPL/gpsr_ja.md)
 * Open Challenge: [EN](rules/OPL/gpsr_en.md) / [JA](rules/OPL/gpsr_ja.md)
-* Kachaka Challenge (Extended Tidy Up)
+* Kachaka Challenge (Extended Tidy Up)[EN](rules/OPL/tu_en.md) / [JA](rules/OPL/tu_ja.md)
 * Poster: [EN](rules/OPL/ps_en.md) / [JA](rules/OPL/ps_ja.md)
 
 ### DSPL
