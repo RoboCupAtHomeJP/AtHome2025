@@ -59,6 +59,17 @@ Rules are based on RoboCup 2025.
 #### Object List
 * [Object List](rules/DSPL/dspl_2025_object_list.pdf)
 
+#### Name List
+* [Name List](rules/DSPL/name_list.md)
+
+#### Question List
+* [Question List](rules/DSPL/question_list.md)
+
+#### Posture List
+* [Posture List](rules/DSPL/posture_list.md)
+
+
+
 ### BRG (Bridge Competition)
 
 #### Overall Rules
