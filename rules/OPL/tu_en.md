@@ -83,7 +83,7 @@ The following Deus ex Machina will be adopted in this task. With Deus ex Machina
 | Move to living room                                     | $20$            |
 | Grasp the object                                        | $10 \times 12$  |
 | Store the object                                        | $10 \times 12$  |
-| Store the object in the designated destination          | $-10$ each      |
+| Store the object in the designated destination          | $10 \times 12$      |
 | **Bonus**                                               |                 |
 | Move the mobile shelf to the designated room            | $20 \times 2$   |
 | Store the object on the mobile shelf to the final destination | $25$ each |
