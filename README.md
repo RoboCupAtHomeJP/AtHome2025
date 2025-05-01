@@ -25,15 +25,23 @@ Discord is the official communication platform for @Home League. There, informat
 ルールはRoboCup2024 World Championship @HomeのRulesbookを基に実施されます．
 Rules are based on RoboCup2024 World Championship @Home.
 
-> [!IMPORTANT]
-> ルールの詳細はまだ作成中です．最終版はmainブランチにマージされます． / Task rules are not published yet. The final version will be merged into the main branch.
-
 * Carry My Luggage (Education League): [EN](rules/EDU/cml_en.md) / [JA](rules/EDU/cml_ja.md)
 * ~~Receptionist~~
 * GPSR: [EN](rules/OPL/gpsr_en.md) / [JA](rules/OPL/gpsr_ja.md)
-* Open Challenge: [EN](rules/OPL/gpsr_en.md) / [JA](rules/OPL/gpsr_ja.md)
+* Open Challenge: [EN](rules/OPL/oc_en.md) / [JA](rules/OPL/oc_ja.md)
 * Kachaka Challenge (Extended Tidy Up)[EN](rules/OPL/tu_en.md) / [JA](rules/OPL/tu_ja.md)
 * Poster: [EN](rules/OPL/ps_en.md) / [JA](rules/OPL/ps_ja.md)
+
+
+#### Released Lists
+
+* [Environment List (TODO)](rules/OPL/sd/layout_list.md)
+* [Object List](rules/OPL/sd/object_list.md)
+* [GPSR - Predefined Location ](rules/OPL/sd/pd_loc_list.md)
+* [GPSR - Name List](rules/OPL/sd/name_list.md)
+* [GPSR - Question List](rules/OPL/sd/question_list.md)
+* [GPSR - Features List](rules/OPL/sd/features_list.md)
+
 
 ### DSPL
 
