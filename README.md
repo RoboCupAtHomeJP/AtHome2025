@@ -42,7 +42,7 @@ Rules are based on RoboCup 2025.
 
 [Schedule](rules/DSPL/README.md)
 
-#### Beginner's Category
+#### Beginner's (B) Category
 
 ルールや採点方法に変更が加えられる予定です． / Rules and scoring criteria will be modified.
 
@@ -50,7 +50,7 @@ Rules are based on RoboCup 2025.
 * [Restaurant](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/restaurant_for_beginner_league.md)
 * [GPSR](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/gpsr.md)
 
-#### Regular Category
+#### Advanced (A) Category
 
 * Storing Groceries
 * [Restaurant](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/restaurant.md)
