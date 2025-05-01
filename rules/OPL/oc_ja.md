@@ -14,6 +14,4 @@
 
 競技の得点には反映されず，*Open Challenge*は個別に採点・表彰される．したがって，**7.4 Final Ranking and Winner**は無効である．
 
-**内部審査員用のスコアシート**: [OC(in)-score_sheet](./doc/RCJ2024_OPL_OC(in)-score_sheet.pdf)
-
-**外部審査員用のスコアシート**: [OC(ex)-score_sheet](./doc/RCJ2024_OPL_OC(ex)-score_sheet.pdf)
+**審査員用のスコアシート**: [OC-score_sheet](./doc/OC-score_sheet.pdf)

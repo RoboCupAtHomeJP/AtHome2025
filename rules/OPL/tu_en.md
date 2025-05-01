@@ -92,7 +92,7 @@ The following Deus ex Machina will be adopted in this task. With Deus ex Machina
 |                                                         |                 |
 | Total (without bonus)                                   | $500$           |
 
-**Score Sheet for the Scorer**: [TU-score_sheet](./doc/RCJ2024_OPL_TU-score_sheet.pdf)
+**Score Sheet for the Scorer**: [ETU-score_sheet](./doc/ETU-score_sheet.pdf)
 
 # Instructions
 

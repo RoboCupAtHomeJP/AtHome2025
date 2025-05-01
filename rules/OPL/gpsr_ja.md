@@ -195,8 +195,7 @@ $Weight$ の変数は[カテゴリごとの重み](#カテゴリごとの重み-
 | &emsp; - 不参加（無断）                                 | $-500$ |
 | **合計**                                                | $500$ |
 
-**得点係用のスコアシート**: GPSR-score_sheet (TBD)
-**得点係用のスコアシート**: [GPSR-score_sheet](./doc/RCJ2025_OPL_GPSR-score_sheet.pdf)
+**得点係用のスコアシート**: [GPSR-score_sheet](./doc/GPSR-score_sheet.pdf)
 
 
 ## 指示 (Instructions)

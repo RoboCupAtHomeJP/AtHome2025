@@ -10,7 +10,7 @@ The poster session is held on a setup day. Each team will present their research
 2. Evaluation: The poster presentation is evaluated by juries and other teams' participants (1 per team). It is not allowed to evaluate your own team's presentation. The best poster presentation award (OPL) is awarded by @Home league.
 3. Criterion
    1. Novelty
-   2. Scientific contribution
+   2. Scientific/Educational contribution
    3. Relevance to RoboCup@Home
    4. Presentation (Quality of poster and talk)
 4. Poster format: A0 portrait, each team should bring a printed poster.
@@ -24,12 +24,12 @@ The start time and the place to have a poster session will be announced by the s
 |Criteria|Max Score|
 |---|-------|
 | Novelty | 5 |
-| Scientific contribution | 5 |
+| Scientific/Educational contribution | 5 |
 | Relevance to RoboCup@Home | 5 |
 | Presentation (Qualify of poster and talk) | 5 |
 | **Sum** | **20** |
 
-**Score Sheet for the Scorer**: [PS-score_sheet](./doc/RCJ2024_OPL_PS-score_sheet.pdf)
+**Score Sheet for the Scorer**: [PS-score_sheet](./doc/PS-score_sheet.pdf)
 
 
 ### Evaluation

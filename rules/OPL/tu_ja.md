@@ -89,7 +89,7 @@
 |                                                    |               |
 | 合計（ボーナスタスクを除く）                            | $500$          |
 
-**得点係用のスコアシート**: [TU-score_sheet](./doc/RCJ2025_OPL_TU-score_sheet.pdf)
+**得点係用のスコアシート**: [ETU-score_sheet](./doc/ETU-score_sheet.pdf)
 
 ## 指示 (Instructions)
 
