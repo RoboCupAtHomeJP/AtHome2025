@@ -39,6 +39,9 @@ Rules are based on RoboCup2024 World Championship @Home.
 
 Rules are based on RoboCup 2025.
 (DSPL競技に関する[QA](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/qa_dspl_competition.md))
+
+[Schedule](rules/DSPL/README.md)
+
 #### Beginner's Category
 
 ルールや採点方法に変更が加えられる予定です． / Rules and scoring criteria will be modified.
