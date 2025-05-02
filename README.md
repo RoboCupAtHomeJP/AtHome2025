@@ -49,6 +49,7 @@ Rules are based on RoboCup 2025.
 (DSPL競技に関する[QA](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/qa_dspl_competition.md))
 
 [Schedule](rules/DSPL/README.md)
+[Locations](rules/DSPL/robocup_japan_open_2025_map.pdf)
 
 #### Beginner's (B) Category
 
