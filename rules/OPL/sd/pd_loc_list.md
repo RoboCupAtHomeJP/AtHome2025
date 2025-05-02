@@ -1,4 +1,4 @@
-<sub>[Go back to README](../../../README_en.md)</sub>
+<sub>[Go back to README](../../../README.md)</sub>
 <sub>[READMEへ戻る](../../../README.md)</sub>
 
 This list will be used during *GPSR* task. \
