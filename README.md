@@ -65,7 +65,7 @@ Rules are based on RoboCup 2025.
 * [Restaurant](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/restaurant.md)
 * [EGPSR](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/egpsr.md)
 * [Receptionist](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/receptionist.md)
-* Clean the Table
+* [Clean the Table](rules/DSPL/clean_the_table.md)
 * [Help Me Carry](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/hmc.md)
 
 #### Object List
