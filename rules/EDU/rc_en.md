@@ -24,7 +24,7 @@ System Integration, Human-Robot Interaction, Person Detection, Person Recognitio
 - Host
   - The host's name is Max.
   - His favorite drink is Wine.
-  - The initial location of the host will be announced on the setup date.
+  - The initial positions of the hosts are indicated by ● mark in the above figure, respectively, in Trial 1/2.
 - Guest
   - Each of the two guests is assigned a name and a favorite beverage.
   - Guests are guided into the room by the robot and introduced.
@@ -87,7 +87,21 @@ The competition will be held without a door.
 
 ## List of Features
 
-We will recruit and confirm in the Discord channel. [TODO]
+
+The “feature list” available shall be the following 10.
+
+- Gender  >>  Male or Female
+- Clothing color (Tops)  >>  ※
+- Pants color  >>  ※
+- Hair color  >>  ※
+- Length of sleeves  >>  long or short
+- Height  >>  ±10cm
+- Age  >>  ±7 years old
+- Wears Glasses  >>  Yes or No
+- Wears Cap/Hat >>  Yes or No
+- Wears Mask >>  Yes or No
+
+※To be determined by the scorer.
 
 <br>
 
