@@ -15,6 +15,4 @@ The objective is set by each team. Japanese and English languages are allowed to
 
 The score of the *Open Challenge* is not to be reflected in the competition score. The *Open Challenge* is scored and awarded individually. Therefore, **7.4 Final Ranking and Winner** are invalid.
 
-**Score Sheet for the Internal Judge**: [OC(in)-score_sheet](./doc/RCJ2024_OPL_OC(in)-score_sheet.pdf)
-
-**Score Sheet for the External Judge**: [OC(ex)-score_sheet](./doc/RCJ2024_OPL_OC(ex)-score_sheet.pdf)
+**Score Sheet for the Judge**: [OC-score_sheet](./doc/OC-score_sheet.pdf)

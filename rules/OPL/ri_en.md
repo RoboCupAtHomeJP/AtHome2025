@@ -72,7 +72,7 @@ Therefore, there is no limit to the number of attempts for this task.
 | &emsp; - Not attending (absence without permission)                         | $-500$ |
 | **Total Score**                                                             | $100$ |
 
-**Score Sheet for the Scorer**: [RI-score_sheet](./doc/RCJ2024_OPL_RI-score_sheet.pdf)
+**Score Sheet for the Scorer**: [RI-score_sheet](./doc/RI-score_sheet.pdf)
 
 
 ## Instructions
