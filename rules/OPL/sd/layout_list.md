@@ -1,4 +1,4 @@
-<sub>[Go back to README](../../../README_en.md)</sub>
+<sub>[Go back to README](../../../README.md)</sub>
 <sub>[READMEへ戻る](../../../README.md)</sub>
 
 
@@ -32,6 +32,7 @@
 
 ![Carry My Luggage - CML​ ​](../layout/CML-layout.jpg)
 
-> ![IMPORTANT]
+
+> [!IMPORTANT]  
 > Teams can decide whether to use the chairs, or place the bags in the floor.
 > バッグを椅子を使わないで床に置くか，椅子の上に置くか，自由に決められる.
