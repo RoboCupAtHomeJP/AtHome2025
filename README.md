@@ -35,7 +35,7 @@ Rules are based on RoboCup2024 World Championship @Home.
 
 #### Released Lists
 
-* [Environment List (TODO)](rules/OPL/sd/layout_list.md)
+* [Environment List](rules/OPL/sd/layout_list.md)
 * [Object List](rules/OPL/sd/object_list.md)
 * [GPSR - Predefined Location ](rules/OPL/sd/pd_loc_list.md)
 * [GPSR - Name List](rules/OPL/sd/name_list.md)
