@@ -48,8 +48,9 @@ Rules are based on RoboCup2024 World Championship @Home.
 Rules are based on RoboCup 2025.
 (DSPL競技に関する[QA](https://github.com/RoboCupAtHomeJP/AtHome2025/blob/main/rules/DSPL/qa_dspl_competition.md))
 
-[Schedule](rules/DSPL/README.md)
-[Locations](rules/DSPL/robocup_japan_open_2025_map.pdf)
+- [Schedule](rules/DSPL/README.md)
+- [Locations](rules/DSPL/robocup_japan_open_2025_map.pdf)
+- [Arena reservation sheet](https://1drv.ms/x/c/a27484ad5dac677b/EbpkB4Yd4xRKmmHzQOWYH2QBXDS15JXTIg1cTUiIgWS-xQ?e=HpdYxX)
 
 #### Beginner's (B) Category
 
