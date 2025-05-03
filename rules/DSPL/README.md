@@ -3,6 +3,10 @@
 ## スケジュール
 ![](./dspl_schedule.png)
 
+## task information
+### GPSR
+![](./GPSR_info.png)
+
 ## 競技順 (A)
 ### Receptionist
 - TRAIL
