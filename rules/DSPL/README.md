@@ -29,6 +29,13 @@
 - TRAIL
 - eR@sers
 
+### Help me carry
+- eR@sers  
+- TIDBots  
+- Re@dy  
+- Hibikino-Musashi@Home Tamunosuke  
+- TRAIL 
+
 ## 競技順 (B)
 ### Restaurant
 - Robot Dojo
