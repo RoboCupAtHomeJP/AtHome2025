@@ -59,8 +59,8 @@
 - ODENS
 
 ### GPSR
-- ODENS  
+- ~~ODENS~~
 - SOBITS  
 - iPutok  
 - OIT-R  
-- Robot Dojo  
+- ~~Robot Dojo~~
