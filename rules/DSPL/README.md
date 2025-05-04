@@ -36,6 +36,13 @@
 - Hibikino-Musashi@Home Tamunosuke  
 - TRAIL 
 
+### EGPSR
+- Hibikino-Musashi@Home Tamunosuke  
+- TIDBots  
+- eR@sers  
+- TRAIL  
+- Re@dy  
+
 ## 競技順 (B)
 ### Restaurant
 - Robot Dojo
@@ -50,3 +57,10 @@
 - Rbot Dojo
 - OIT-R
 - ODENS
+
+### GPSR
+- ODENS  
+- SOBITS  
+- iPutok  
+- OIT-R  
+- Robot Dojo  
