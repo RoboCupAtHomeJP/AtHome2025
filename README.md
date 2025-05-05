@@ -42,6 +42,22 @@ Rules are based on RoboCup2024 World Championship @Home.
 * [GPSR - Question List](rules/OPL/sd/question_list.md)
 * [GPSR - Features List](rules/OPL/sd/features_list.md)
 
+#### Score
+
+* [Main Competition](rules/OPL/score/score_main_competition.pdf)
+  1. KIT Happy Robot
+  2. FAMBOT
+  3. SOBITS
+* [Open Challenge](rules/OPL/score/score_open_challenge.pdf)
+  1. Hibikino-Musashi@Home & Re@dy Tamkachallenger
+  2. KIT Happy Robot
+  3. SOBITS
+* [Poster Session](rules/OPL/score/score_poster_session.pdf)
+  1. SOBITS
+* Kachaka Challenge
+  1. SOBITS
+  2. KIT Happy Robot
+
 
 ### DSPL
 
