@@ -45,9 +45,9 @@ Rules are based on RoboCup2024 World Championship @Home.
 #### Score
 
 * [Main Competition](rules/OPL/score/score_main_competition.pdf)
-  1. KIT Happy Robot
-  2. FAMBOT
-  3. SOBITS
+  1. FAMBOT
+  2. SOBITS
+  3. KIT Happy Robot
 * [Open Challenge](rules/OPL/score/score_open_challenge.pdf)
   1. Hibikino-Musashi@Home & Re@dy Tamkachallenger
   2. KIT Happy Robot
