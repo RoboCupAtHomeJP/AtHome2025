@@ -96,6 +96,9 @@ Rules are based on RoboCup2024 World Championship @Home Playground rules as foll
 - [Receptionist](rules/EDU/rc_jp.md)
 - [Technical Challenge (Finals)](rules/EDU/finals_jp.md)
 
+#### Results
+- [Results](rules/EDU/results.md)
+
 ### S-OPL
 
 * [General Rules](rules/S-OPL/gr_ja.md)
