@@ -1,4 +1,4 @@
-# Poster Session Results   
+# Poster Session Results
 - ![Poster_session_results](https://github.com/user-attachments/assets/2f2ecc5f-fefa-493f-9832-22c62f22ab7f)
 - [Poster_session_results.pdf](https://github.com/user-attachments/files/20138600/Poster_session_results.pdf)
 
